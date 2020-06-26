@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/AKazak/FileReader.git",
-                "reference": "e6417d6ec4aeee745a807ddac3909ac14ad87c35"
+                "reference": "470a768bae2796ad53ad9011edd9a48a39eb8015"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AKazak/FileReader/zipball/e6417d6ec4aeee745a807ddac3909ac14ad87c35",
-                "reference": "e6417d6ec4aeee745a807ddac3909ac14ad87c35",
+                "url": "https://api.github.com/repos/AKazak/FileReader/zipball/470a768bae2796ad53ad9011edd9a48a39eb8015",
+                "reference": "470a768bae2796ad53ad9011edd9a48a39eb8015",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +40,7 @@
                 "source": "https://github.com/AKazak/FileReader/tree/master",
                 "issues": "https://github.com/AKazak/FileReader/issues"
             },
-            "time": "2020-06-26T19:35:32+00:00"
+            "time": "2020-06-26T19:54:21+00:00"
         }
     ],
     "packages-dev": [],
