@@ -1,0 +1,21 @@
+{
+    "name": "akazak/file-reader-extension-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AKazak",
+            "email": "anton.kazak.26.1997@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4",
+        "akazak/file-reader-extension": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/AKazak/FileReader"
+        }
+    ]
+}

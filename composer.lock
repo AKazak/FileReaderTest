@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "84561cd2e94241721b22af4de50d29b9",
+    "packages": [
+        {
+            "name": "akazak/file-reader-extension",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AKazak/FileReader.git",
+                "reference": "e6417d6ec4aeee745a807ddac3909ac14ad87c35"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AKazak/FileReader/zipball/e6417d6ec4aeee745a807ddac3909ac14ad87c35",
+                "reference": "e6417d6ec4aeee745a807ddac3909ac14ad87c35",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "AKazak\\FileReader\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "AKazak",
+                    "email": "anton.kazak.26.1997@gmail.com"
+                }
+            ],
+            "description": "Extension to get specific info from file",
+            "support": {
+                "source": "https://github.com/AKazak/FileReader/tree/master",
+                "issues": "https://github.com/AKazak/FileReader/issues"
+            },
+            "time": "2020-06-26T19:35:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "akazak/file-reader-extension": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.4"
+    },
+    "platform-dev": []
+}
